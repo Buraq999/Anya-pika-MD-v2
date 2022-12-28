@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.simBotname = "Anya" //⚠️ ᴏɴʟʏ ᴜsᴇ ɴᴏʀᴍᴀʟ ғᴏɴᴛ ᴀɴᴅ sɪɴɢʟᴇ ᴡᴏʀᴅ ғᴏʀ ᴛʜɪs ɴᴀᴍᴇ ⚠️//
 
              //--------Owner & vcard--------\\
-             global.botname = "KING BURAQ" 
+             global.botname = "Queen anya" 
              global.ownernumber = ['8148718320'] // Owner number //
              global.vcardowner = ['8148718320'] // vcard owner number //
              global.ownername = "BURAQ GAMING" // Owner name //
@@ -15,13 +15,13 @@ global.simBotname = "Anya" //⚠️ ᴏɴʟʏ ᴜsᴇ ɴᴏʀᴍᴀʟ ғᴏɴᴛ
              global.aliveMessage = `🦋⃟≛⃝ 𝗔𝗻𝘆𝗮ᵇʸ ᵖⁱᵏᵃ•••       ⬇️` // Alive message for menu //
              global.owner = ['918811074852','917355622763','919673141317']
              global.ownertag = '918811074852' // Tag number //
-             global.linkz = "https://wa.me/+918811074852" // Theme url which will be displayed on whatsapp //
+             global.linkz = "https://wa.me/+2348148718320" // Theme url which will be displayed on whatsapp //
              global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-             global.botscript = 'Not available publicly' // Script link //
+             global.botscript = 'Not available privately' // Script link //
              global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
              global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
              actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
+             global.premium = ['8148718320'] // premium numbers //
              global.headerText = "Anya by Pika" // text for header of menus //
              global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
 
