@@ -5,10 +5,10 @@ const chalk = require('chalk')
 global.simBotname = "Anya" //⚠️ ᴏɴʟʏ ᴜsᴇ ɴᴏʀᴍᴀʟ ғᴏɴᴛ ᴀɴᴅ sɪɴɢʟᴇ ᴡᴏʀᴅ ғᴏʀ ᴛʜɪs ɴᴀᴍᴇ ⚠️//
 
              //--------Owner & vcard--------\\
-             global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
-             global.vcardowner = ['918811074852'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
+             global.botname = "KING BURAQ" 
+             global.ownernumber = ['8148718320'] // Owner number //
+             global.vcardowner = ['8148718320'] // vcard owner number //
+             global.ownername = "BURAQ GAMING" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
